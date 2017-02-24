@@ -2,7 +2,7 @@
 A program to select any color on your desktop or web browser.
 
 Introduction:
-This was a simple project to grab any color you see on your desktop or in an open window. I made this because I always see colors I might use in the future so and I want to know their RGB data. Simply click the color you want to know of and the program will display it to you. It can hold up to 5 colors and can be reset. The program will also display the x and y coordinates of the spot you grabbed the colors from.
+This was a simple project to grab any color you see on your desktop or in an open window. I made this because I'm always seeing colors that I would like use in the future; but to do that I need their RGB data. Simply click the color you want to know of and the program will display it to you. It can hold up to 5 colors and can be reset. The program will also display the x and y coordinates of the spot you grabbed the colors from.
 
 How to use:
 Press 'enter' to start selecting.
